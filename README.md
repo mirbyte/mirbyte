@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Visits](https://komarev.com/ghpvc/?username=mirbyte&color=dc143c&style=plastic&abbreviated=true&label=Profile Views)
+![Visits](https://komarev.com/ghpvc/?username=mirbyte&color=dc143c&style=plastic&abbreviated=true&label=Profile+Views)
 
 
 
