@@ -6,8 +6,8 @@
 
 
 
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54">
-<img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=ffdd54">
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python">
+<img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp">
 
 ![Visits](https://komarev.com/ghpvc/?username=mirbyte&color=22a153&style=flat&abbreviated=true&label=PROFILE+VIEWS++)
 <!--blue 5757ff-->
