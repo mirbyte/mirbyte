@@ -6,6 +6,8 @@
 
 
 
+<a href="https://github.com/search?q=user%mirbyte+language%3APython"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"></a>
+
 ![Visits](https://komarev.com/ghpvc/?username=mirbyte&color=22a153&style=flat&abbreviated=true&label=PROFILE+VIEWS++)
 <!--blue 5757ff-->
 
