@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 **Most of my commits are correcting typos😓**
 
 
