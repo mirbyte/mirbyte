@@ -2,8 +2,6 @@
 Most of my commits are correcting typos.
 
 
-![Wondoo](https://media.tenor.com/example.gif)
-
 
 
 
