@@ -2,8 +2,6 @@
 **Most of my commits are correcting typos😓**
 
 
-<br>
-
 
 ![fortnite](https://github.com/user-attachments/assets/b3f0d5b0-f8f3-41cc-88ba-eaa90930eecc)
 
