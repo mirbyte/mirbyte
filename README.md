@@ -4,7 +4,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/mirbyte)](https://badges.pufler.dev)
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=mirbyte&color=dc143c)
 
 
 
