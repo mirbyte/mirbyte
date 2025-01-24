@@ -2,9 +2,7 @@
 Most of my commits are correcting typos.
 
 
-![wondoo](https://github.com/user-attachments/assets/ad31ffa7-7af1-4513-ae33-0680baab42e5)
-
-
+![fortnite](https://github.com/user-attachments/assets/b3f0d5b0-f8f3-41cc-88ba-eaa90930eecc)
 
 
 
