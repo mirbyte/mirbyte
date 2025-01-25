@@ -1,5 +1,5 @@
 # Hi there 👋
-**Most of my commits are correcting typos😓**
+**95% of my commits are due to careless mistakes😓**
 
 
 
