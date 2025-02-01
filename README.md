@@ -1,5 +1,5 @@
 # Hi there 👋
-**95% of my commits are due to careless mistakes😓**
+**95% of my commits are just fixing careless mistakes😓**
 
 
 
