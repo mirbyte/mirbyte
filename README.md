@@ -5,8 +5,6 @@
 
 ![fortnite](https://github.com/user-attachments/assets/b3f0d5b0-f8f3-41cc-88ba-eaa90930eecc)
 
-<br>
-<br>
 
 **Skills:**
 - python
@@ -15,6 +13,8 @@
 - very limited html/java/css
 
 
+<br>
+<br>
 
 ![Visits](https://komarev.com/ghpvc/?username=mirbyte&color=22a153&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS++)
 <!--blue 5757ff-->
