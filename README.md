@@ -8,6 +8,14 @@
 <br>
 <br>
 
+Skills:
+- python
+- win batch scripting
+- c# basics
+- very limited html/java/css
+
+
+
 ![Visits](https://komarev.com/ghpvc/?username=mirbyte&color=22a153&style=for-the-badge&abbreviated=true&label=PROFILE+VIEWS++)
 <!--blue 5757ff-->
 
