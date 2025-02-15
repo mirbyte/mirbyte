@@ -7,7 +7,7 @@
 
 <br>
 
-**Skills:**
+**Programming Skillset:**
 - python
 - win batch scripting
 - c# basics
