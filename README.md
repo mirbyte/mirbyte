@@ -8,7 +8,7 @@
 <br>
 <br>
 
-Skills:
+**Skills:**
 - python
 - win batch scripting
 - c# basics
