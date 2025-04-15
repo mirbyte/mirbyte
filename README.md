@@ -12,7 +12,7 @@ Sometimes I try to code.
 - win batch scripting
 - c# basics
 - pine script basics
-- very limited html/java/css
+- very limited html/java/css/powershell
 
 
 <br>
