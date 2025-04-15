@@ -1,5 +1,5 @@
 # Hi there 👋
-**90% of my commits are just fixing my own careless mistakes😓**
+Sometimes I try to code.
 
 
 
