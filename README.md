@@ -10,8 +10,8 @@ Sometimes I try to code.
 **Programming Skillset:**
 - python
 - win batch scripting
+- pine script
 - c# basics
-- pine script basics
 - very limited html/java/css/powershell
 
 
